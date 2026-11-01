@@ -1,0 +1,6 @@
+{
+  "name": "Gogna Enterprises - Iron & Steel Trading",
+  "description": "Professional multi-page business website for Gogna Enterprises, supplying high-grade TMT bars, structural steel, angles, channels, plates, and pipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
